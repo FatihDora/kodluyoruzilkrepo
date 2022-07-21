@@ -7,9 +7,18 @@ Bu repo [Kodluyoruz](http://kodluyoruz.org) Front-End Eğitiminde oluşturduğum
 ![Preview](https://i.hizliresim.com/f8awvy0.png)
 
 
-# Installation / Kurulum
+# Installation
 
-İlk önce oluşturduğunuz projenizin indirme yolunu sağ tarafında bulunan **CODE** Kısmından  kopyalayın.
+Oluşturduğunuz Reponuzun indirme yolunu sağdaki **CODE** kısmından kopyalayın.
 
 ![Preview](https://i.hizliresim.com/6vvvwvk.jpg)
+
+Sonra **GIT**'i kullanarak aşağıdaki gibi clone'layın.
+
+``` javascript
+git clone https://github.com/FatihDora/myfirstrepo
+```
+
+Projeyi cloneladıktan sonra **Visual Studio Code** programında ister sürükleyip üzerine bırakarak, ister open folder diyerek açın, yada **GIT** üzerinden açmak isterseniz. ``cd myfirstrepo
+code .`` da yapabilirsiniz.
 
