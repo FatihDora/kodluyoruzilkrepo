@@ -18,7 +18,17 @@ Sonra **GIT**'i kullanarak aşağıdaki gibi clone'layın.
 ``` javascript
 git clone https://github.com/FatihDora/myfirstrepo
 ```
+# Usage
+---
 
 Projeyi cloneladıktan sonra **Visual Studio Code** programında ister sürükleyip üzerine bırakarak, ister open folder diyerek açın, yada **GIT** üzerinden açmak isterseniz. ``cd myfirstrepo
 code .`` da yapabilirsiniz.
+
+# Contributing
+---
+Pull requestler kabul edilir. lütfen isteğiniz değişiklik için bir konu açınız.
+
+# License
+---
+[MIT](https://choosealicense.com/licenses/mit/)
 
